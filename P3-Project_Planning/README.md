@@ -9,7 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-* ![Manager Menu Wireframe](https://github.com/jdwheelehan/liftoff-assignments/files/1678965/Manager.Menu.pdf)
+* ![Sales Till Wireframe](https://github.com/jdwheelehan/liftoff-assignments/blob/master/P3-Project_Planning/sales%20till.pdf)
+* ![Manager Menu Wirefram](https://github.com/jdwheelehan/liftoff-assignments/blob/master/P3-Project_Planning/Manager%20Menu.pdf)
+* ![Employee List Wireframe](https://github.com/jdwheelehan/liftoff-assignments/blob/master/P3-Project_Planning/Employee%20List.pdf)
 
 ### Project Tracker
 
